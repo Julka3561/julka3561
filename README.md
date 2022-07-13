@@ -1,16 +1,20 @@
-### Hi there 👋
+### Привет! Меня зовут Юля Васильева и здесь хранятся мои проекты на Python и Django 👋
 
-<!--
-**Julka3561/julka3561** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Мой стек технологий
+- Python 3
+- Django
+- Django Rest Framework
+- REST API
+- Docker
+- Nginx
+- gunicorn
+- SQL (MySQL, PostgreSQL)
 
-Here are some ideas to get you started:
+## Мои проекты
+Сейчас я заканчиваю обучение на курсе Python-разработчик от Яндекс.Практикума и результаты моей работы перед вами:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Проект API yamdb упакованный в Docker контейнеры: https://github.com/Julka3561/infra_sp2
+- API для базы данных произведений с отзывами и комментариями. Позволяет делать запросы к ресурсам БД с любого устройства: https://github.com/Julka3561/api_yamdb
+- REST API для работы с веб-сайтом YaTube: https://github.com/Julka3561/api_final_yatube
+- Социальная сеть блогеров YaTube: https://github.com/Julka3561/Yatube
+- Telegram bot для отслеживания статуса домашней работы на Яндекс.Практикуме: https://github.com/Julka3561/homework_bot
